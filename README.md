@@ -39,5 +39,8 @@ Provides department-wise analysis and workforce trends.
 ### Department Performance Summary
 ![Department Analysis](department_analysis.png)
 
+## Dashboard Demo
+"C:\Users\aishw\Videos\Screen Recordings\HR_Analytics-Dashboard-SR.mp4"
+
 ## Developed By
 Aishwarya Sreeman
