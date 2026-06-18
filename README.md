@@ -40,7 +40,7 @@ Provides department-wise analysis and workforce trends.
 ![Department Analysis](department_analysis.png)
 
 ## Dashboard Demo
-[Watch Dashboard Demo](HR_Dashboard_Demo.mp4)
+[Watch Dashboard Demo](HR-Dashboard-Vid.mp4)
 
 ## Developed By
 Aishwarya Sreeman
