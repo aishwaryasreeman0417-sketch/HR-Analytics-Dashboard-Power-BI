@@ -32,7 +32,12 @@ Provides department-wise analysis and workforce trends.
 - Lower salary bands showed increased attrition patterns.
 
 ## Screenshots
-(Add dashboard screenshots here)
+
+### Overview Dashboard
+![Overview](overview.png)
+
+### Department Performance Summary
+![Department Analysis](department_analysis.png)
 
 ## Developed By
 Aishwarya Sreeman
